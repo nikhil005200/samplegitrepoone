@@ -123,6 +123,7 @@
     <Compile Include="Controllers\DashboardController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
+    <Compile Include="Controllers\PhaseFourController.cs" />
     <Compile Include="Controllers\PhasethreeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -171,6 +172,7 @@
     <Folder Include="Models\" />
     <Folder Include="Views\Dashboard\" />
     <Folder Include="Views\Login\" />
+    <Folder Include="Views\PhaseFour\" />
     <Folder Include="Views\Phasethree\" />
   </ItemGroup>
   <ItemGroup>
